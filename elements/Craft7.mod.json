@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Hades.boots"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Darkiron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Darkiron"
+      },
+      {
+        "value": "CUSTOM:Darkiron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Darkiron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "craft7",
+    "namespace": "mod"
+  }
+}

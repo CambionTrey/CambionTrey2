@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Zeus.boots"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ElectricIron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ElectricIron"
+      },
+      {
+        "value": "CUSTOM:ElectricIron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ElectricIron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "crafting3",
+    "namespace": "mod"
+  }
+}

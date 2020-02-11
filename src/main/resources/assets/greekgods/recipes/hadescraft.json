@@ -1,0 +1,29 @@
+{
+  "group": "greekgods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "greekgods:darkiron"
+    },
+    "1": {
+      "item": "greekgods:darkiron"
+    },
+    "2": {
+      "item": "greekgods:darkiron"
+    },
+    "3": {
+      "item": "greekgods:darkiron"
+    },
+    "5": {
+      "item": "greekgods:darkiron"
+    }
+  },
+  "result": {
+    "item": "greekgods:hadeshelmet",
+    "count": 1
+  }
+}

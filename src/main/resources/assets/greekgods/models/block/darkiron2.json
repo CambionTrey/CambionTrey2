@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "greekgods:blocks/blackironore",
+    "up": "greekgods:blocks/blackironore",
+    "north": "greekgods:blocks/blackironore",
+    "east": "greekgods:blocks/blackironore",
+    "south": "greekgods:blocks/blackironore",
+    "west": "greekgods:blocks/blackironore",
+    "particle": "greekgods:blocks/blackironore"
+  }
+}

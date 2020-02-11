@@ -1,0 +1,39 @@
+{
+  "group": "greekgods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "greekgods:electriciron"
+    },
+    "2": {
+      "item": "greekgods:electriciron"
+    },
+    "3": {
+      "item": "greekgods:electriciron"
+    },
+    "4": {
+      "item": "greekgods:electriciron"
+    },
+    "5": {
+      "item": "greekgods:electriciron"
+    },
+    "6": {
+      "item": "greekgods:electriciron"
+    },
+    "7": {
+      "item": "greekgods:electriciron"
+    },
+    "8": {
+      "item": "greekgods:electriciron"
+    }
+  },
+  "result": {
+    "item": "greekgods:zeusbody",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "greekgods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "greekgods:darkiron"
+    },
+    "1": {
+      "item": "greekgods:darkiron"
+    },
+    "2": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "greekgods:wut",
+    "count": 1
+  }
+}

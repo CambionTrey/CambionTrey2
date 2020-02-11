@@ -1,0 +1,29 @@
+{
+  "group": "greekgods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "greekgods:possidon"
+    },
+    "1": {
+      "item": "greekgods:possidon"
+    },
+    "2": {
+      "item": "greekgods:possidon"
+    },
+    "3": {
+      "item": "greekgods:possidon"
+    },
+    "5": {
+      "item": "greekgods:possidon"
+    }
+  },
+  "result": {
+    "item": "greekgods:poseidonhelmet",
+    "count": 1
+  }
+}

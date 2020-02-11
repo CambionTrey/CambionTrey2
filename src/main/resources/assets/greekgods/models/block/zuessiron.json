@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "greekgods:blocks/zuessiron",
+    "up": "greekgods:blocks/zuessiron",
+    "north": "greekgods:blocks/zuessiron",
+    "east": "greekgods:blocks/zuessiron",
+    "south": "greekgods:blocks/zuessiron",
+    "west": "greekgods:blocks/zuessiron",
+    "particle": "greekgods:blocks/zuessiron"
+  }
+}

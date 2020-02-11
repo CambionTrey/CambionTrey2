@@ -1,0 +1,19 @@
+{
+  "group": "greekgods",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "greekgods:wut"
+    },
+    {
+      "item": "greekgods:gem"
+    },
+    {
+      "item": "greekgods:lighingsword"
+    }
+  ],
+  "result": {
+    "item": "greekgods:battleaxe",
+    "count": 1
+  }
+}
